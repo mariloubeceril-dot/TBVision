@@ -13,10 +13,12 @@ pip install -r requirements.txt
 
 3. Download the trained model
 
-https://drive.google.com/drive/u/2/search?q=.h5
+[https://drive.google.com/drive/u/2/search?q=.h5
+](https://drive.google.com/file/d/1k1utFGp9qhwjUN1L8ISxZRWPNJ_x65F6/view?usp=sharing)
 
 Place the file `TBVision_DenseNet_Model.h5` in the same folder as `tbvision_app.py`.
 
 4. Run TBVision
+
 
 python tbvision_app.py
