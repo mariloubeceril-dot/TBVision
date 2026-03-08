@@ -52,9 +52,6 @@ It should look like this in the terminal:
 WARNING: The output directory "C:\Users\Admin\Desktop\TBVision_Offline\dist\app" and ALL ITS CONTENTS will be REMOVED! Continue? (y/N)y
 ```
 
-```bash
-python app.py
-```
 
 5.
 
@@ -83,6 +80,7 @@ Open the following link in your browser:
 ```
 http://127.0.0.1:7860
 ```
+
 
 
 
