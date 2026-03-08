@@ -9,8 +9,9 @@ TBVision is an AI-assisted screening tool that analyzes chest X-ray images to de
 ](https://www.python.org/downloads/release/python-3100/)
 
 3. Install required libraries
-
+```bash
 pip install -r requirements.txt
+```
 
 3. Download the trained model
 
@@ -28,3 +29,4 @@ pyinstaller app.py ^ --onefile
  --collect-all gradio
 pyinstaller --onedir --collect-all gradio --collect-all gradio_client --collect-all tensorflow --collect-all keras --collect-all safetensors --add-data "TBVision_DenseNet_Model.h5;." app.py
 doskey /history > commands.txt
+
