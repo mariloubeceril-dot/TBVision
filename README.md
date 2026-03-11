@@ -13,7 +13,8 @@ TBVision is an AI-assisted screening tool that analyzes chest X-ray images to de
 pip install -r requirements.txt
 ```
 
-3. Copy the TBVision_Offline folder to a flash drive and transfer it to the target computer.
+3. Copy the TBVision_Offline folder to a flash drive or using the Google Drive link below and transfer it to the target computer:
+   https://drive.google.com/drive/folders/141mzp0iBnzHDwsG5vG8ihwmKY80WDlWX?usp=sharing 
 
 The folder should contain:
 
@@ -85,6 +86,7 @@ Open the following link in your browser:
 ```
 http://127.0.0.1:7860
 ```
+
 
 
 
