@@ -8,7 +8,12 @@ TBVision is an AI-assisted screening tool that analyzes chest X-ray images to de
 [https://www.python.org/downloads/
 ](https://www.python.org/downloads/release/python-3100/)
 
-2. Copy the TBVision_Offline folder to a flash drive and transfer it to the target computer.
+3. Install required libraries (download requirements.txt)
+```bash
+pip install -r requirements.txt
+```
+
+3. Copy the TBVision_Offline folder to a flash drive and transfer it to the target computer.
 
 The folder should contain:
 
@@ -19,10 +24,6 @@ TBVision_Offline
 ├── TBVision_DenseNet_Model.h5
 └── README.md
 
-3. Install required libraries
-```bash
-pip install -r requirements.txt
-```
 
 
 4. Run TBVision
@@ -84,6 +85,7 @@ Open the following link in your browser:
 ```
 http://127.0.0.1:7860
 ```
+
 
 
 
